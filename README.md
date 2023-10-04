@@ -1,5 +1,5 @@
-# Raiynegicheha
-Front-end developer, I'm committed to bringing your web projects to life with creativity and precision. My journey in web development is just beginning, and I'm eager to prove myself by delivering high-quality work.
+# Raiynegicheha Front-End Developer
+I'm committed to bringing your web projects to life with creativity and precision. My journey in web development is just beginning, and I'm eager to prove myself by delivering high-quality work.
 
 💡 What I bring to the table:
 
