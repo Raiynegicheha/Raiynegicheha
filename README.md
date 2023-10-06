@@ -2,7 +2,7 @@
 
 I'm a passionate front-end developer on a mission to make the web a more beautiful and user-friendly place. My code is my canvas, and I love turning ideas into interactive digital experiences. 
 
-🚀 **Skills**: HTML5, CSS3, JavaScript, React, and more!
+🚀 **Skills**: HTML5, CSS3, JavaScript, React, PHP, Jquery and more!
 
 💡 **My Approach**: I believe in the power of clean, maintainable code and pixel-perfect designs. I'm a perfectionist, and I won't rest until every detail is just right.
 
