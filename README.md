@@ -1,4 +1,4 @@
-# Hi there, I'm Ruthgicheha Front-End Developer 👋
+# Hi there, I'm Ruth-gicheha Front-End Developer 👋
 
 I'm a passionate front-end developer on a mission to make the web a more beautiful and user-friendly place. My code is my canvas, and I love turning ideas into interactive digital experiences. 
 
